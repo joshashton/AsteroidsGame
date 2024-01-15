@@ -5,7 +5,7 @@ Project for a university game development module. A recreation of the retro arca
 
 ## Description
 
-Using the arrow keys to rotate and thrust the space ship, the aim is to dodge and shoot asteroids that are constantly flying around in space. Different sized astteroids are included and big asteroids break into smaller ones when shot. Asteroids drop power ups for the player when destroyed. 
+Using the arrow keys to rotate and thrust the space ship, the aim is to dodge and shoot asteroids that are constantly flying around in space. Different sized asteroids are included and big asteroids break into smaller ones when shot. Asteroids drop power ups for the player to collect when they are destroyed. 
 
 ### Features
 - Player movement
